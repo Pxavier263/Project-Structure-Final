@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-URL = "http://127.0.0.1:8000"
+URL = "https://weather-prediction-07g1.onrender.com"
 
 
 def get_prediction(weather_variable, days):
