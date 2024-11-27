@@ -117,7 +117,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 For questions, suggestions, or support, please contact:
 
 **Charles Ogu**
-Email: p[xavier.corp@gmail.com]()
+Email: [pxavier.corp@gmail.com]()
 Linkedin: [https://www.linkedin.com/in/ogucharles/]()
 
 Enjoy predicting the weather with precision and ease! 🌤️
