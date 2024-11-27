@@ -1,5 +1,7 @@
 **Weather Forecast Prediction Application**
+
 **Description**
+
 This project is a cutting-edge, interactive web application designed to predict weather variables for a specified time frame using the power of machine learning. It seamlessly integrates Streamlit, FastAPI, and a built-in machine learning model to provide users with accurate and intuitive weather forecasts.
 
 **Key Features**
