@@ -70,9 +70,10 @@ To successfully run this application, ensure the following:
 
    ## **Application Structure**
 
-   ├── backend/
 
-   │   ├── main.py                # FastAPI backend setup
+   ```
+   ├── backend/│  
+   ├── main.py                # FastAPI backend setup
    │   ├── model/                 # Contains the weather prediction ML model
    │   └── utils/                 # Utility scripts for data processing and API handling
    ├── frontend/
@@ -83,6 +84,7 @@ To successfully run this application, ensure the following:
    ├── requirements.txt           # List of dependencies
    ├── README.md                  # Project documentation
    └── .gitignore                 # Git ignore file
+   ```
 
 ## **How It Works**
 
