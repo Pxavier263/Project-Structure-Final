@@ -42,10 +42,10 @@ To successfully run this application, ensure the following:
    ```
    python -m venv venv
    source venv/bin/activate       # On MacOS/Linux
-   venv\Scripts\activate  
-   ```
+   venv\Scripts\activate           # On Windows
+ ```
 
-       # On Windows
+       
 4. Install Dependencies
    Install all necessary packages from the `requirements.txt` file:
 
@@ -118,6 +118,7 @@ For questions, suggestions, or support, please contact:
 
 **Charles Ogu**
 Email: [pxavier.corp@gmail.com]()
+
 Linkedin: [https://www.linkedin.com/in/ogucharles/]()
 
 Enjoy predicting the weather with precision and ease! 🌤️
