@@ -1,3 +1,5 @@
+![1732693916907](image/README/1732693916907.png)
+
 # **Weather Forecast Prediction Application**
 
 **Description**
@@ -43,9 +45,7 @@ To successfully run this application, ensure the following:
    python -m venv venv
    source venv/bin/activate       # On MacOS/Linux
    venv\Scripts\activate           # On Windows
- ```
-
-       
+   ```
 4. Install Dependencies
    Install all necessary packages from the `requirements.txt` file:
 
@@ -56,7 +56,7 @@ To successfully run this application, ensure the following:
 **Run the Application**
 
 1. Start the Backend API
-   Launch the FastAPI backend:
+   Launch the FastAPI backend
 
    ```
    python backend/main.py
@@ -68,23 +68,21 @@ To successfully run this application, ensure the following:
    streamlit run frontend/main.py
    ```
 
-## **Application Structure**
+   ## **Application Structure**
 
-```
+   ├── backend/
 
-├── backend/
-│   ├── main.py                # FastAPI backend setup
-│   ├── model/                 # Contains the weather prediction ML model
-│   └── utils/                 # Utility scripts for data processing and API handling
-├── frontend/
-│   ├── main.py                # Streamlit main file for app navigation
-│   ├── pages/
-│       ├── homepage.py        # Homepage layout and content
-│       ├── forecast.py        # Forecasting page with user inputs and visualizations
-├── requirements.txt           # List of dependencies
-├── README.md                  # Project documentation
-└── .gitignore                 # Git ignore file
-```
+   │   ├── main.py                # FastAPI backend setup
+   │   ├── model/                 # Contains the weather prediction ML model
+   │   └── utils/                 # Utility scripts for data processing and API handling
+   ├── frontend/
+   │   ├── main.py                # Streamlit main file for app navigation
+   │   ├── pages/
+   │       ├── homepage.py        # Homepage layout and content
+   │       ├── forecast.py        # Forecasting page with user inputs and visualizations
+   ├── requirements.txt           # List of dependencies
+   ├── README.md                  # Project documentation
+   └── .gitignore                 # Git ignore file
 
 ## **How It Works**
 
@@ -117,6 +115,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 For questions, suggestions, or support, please contact:
 
 **Charles Ogu**
+
+
 Email: [pxavier.corp@gmail.com]()
 
 Linkedin: [https://www.linkedin.com/in/ogucharles/]()
